@@ -1,10 +1,8 @@
 
-{
-  "enabled": false,
-  "version": "0.4.3",
-  "tag": "0.4.3",
-  "url": "https://github.com/theanh93hp-del/PT-Video-Studio/releases/download/0.4.3/PT_Video_Studio_Update_0.4.3.zip",
-  "sha256": "",
-  "size": 0,
-  "notes": "Cải thiện giao diện, tối ưu timeline và nâng cấp PT Video Studio."
-}
+enabled=false
+channel=stable
+version=0.4.3
+filename=PT_Video_Studio_Update_0.4.3.zip
+url=https://github.com/theanh93hp-del/PT-Video-Studio/releases/download/0.4.3/PT_Video_Studio_Update_0.4.3.zip
+sha256=
+notes=PT Video Studio 0.4.3 - Cải thiện giao diện, nâng cấp timeline và tối ưu dựng video.
