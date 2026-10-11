@@ -1,8 +1,8 @@
 
 enabled=true
 channel=stable
-version=1.1.2
+version=1.1.3
 filename=PT_Video_Studio.exe
-url=https://github.com/theanh93hp-del/PT-Video-Studio/releases/download/1.1.2/PT_Video_Studio.exe
-sha256=ff6cb739a6e740414b8d2fc2fdb7fb742058b655dd339887c1a196e762ad5ffd
+url=https://github.com/theanh93hp-del/PT-Video-Studio/releases/download/1.1.3/PT_Video_Studio.exe
+sha256=35ce1085a30aea25ab81bfc8031548156ae87f699b215044643c9552ff8e9eb3
 notes=PT Video Studio 0.4.3 - Cải thiện giao diện, tối ưu timeline và nâng cấp trải nghiệm dựng video.
